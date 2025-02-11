@@ -1,5 +1,5 @@
 # Book Finder Application
-
+USE CASE:
 A simple and intuitive book search application designed to help Alex, a college student, easily search and explore books using the **Open Library Search API**. The app allows users to find books by title and view additional details such as author, publication year, and cover image.
 
 ---
